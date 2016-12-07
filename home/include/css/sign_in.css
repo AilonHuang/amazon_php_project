@@ -1,0 +1,159 @@
+a{
+	text-decoration:none;
+}
+body{
+	font-size: 13px;
+    line-height: 19px;
+    color: #111;
+    font-family: "Microsoft Yahei";
+}
+#sign_in_header{
+	height:70px;
+	width:1152px;
+	margin:0 auto;
+	/*background:red;*/
+}
+#sign_in_header>div{
+	height:50px;
+	width:100px;
+	margin:0 auto;
+	background:url("../img/global-sprite-32-v1.png") no-repeat -4px -115px;
+
+}
+#sign_in_body{
+	width:348px;
+	height:444px;
+	/*background:red;*/
+	margin:0 auto;
+	border:1px solid #ddd;
+	border-radius:4px;
+}
+#sign_in_body>div{
+	width:269px;
+	height:430px;
+	margin:0 auto;
+	margin-top:10px;
+}
+#zhanghao{
+	width:285px;
+	height:50px;
+}
+#zhanghao>span{
+	font-size:13px;
+	padding-left:2px;
+	font-weight:800;
+}
+
+input{
+	width:250px;
+	border:1px solid #a6a6a6;
+	border-radius:3px;
+	height:20px;
+	padding:3px 7px;
+}
+#email>span{
+	font-size:13px;
+	padding-left:2px;
+	font-weight:800;
+}
+#email>span>a{
+	color: #0066c0;
+	font-size:12px;
+}
+#mima>span{
+	display:block;
+	font-size:13px;
+	padding-left:2px;
+	font-weight:800;
+}
+#mima>span>a{
+	color: #0066c0;
+}
+#yinsi_tiaoli{
+	width:269px;
+	height:30px;
+	color:#111;
+	/*background:red;*/
+	margin-top:10px;
+}
+#yinsi_tiaoli>input{
+	float:left;
+	width:13px;
+
+}
+#yinsi_tiaoli>span{
+	font-size:13px;
+}
+#yinsi_tiaoli>span>a{
+	font-size:13px;
+	color: #0066c0;
+}
+#yinsi_tiaoli>span>a:hover{
+
+	color: #c45500;
+}
+#denglu{
+	margin-top:10px;
+}
+#denglu>button{
+	width:266px;
+	height:30px;
+	font-size:13px;
+	background: #f0c14b;
+    border-radius:3px;
+    cursor:pointer;
+}
+#denglu>button:hover{
+	/*background:red;*/
+	box-shadow:-1px -1px 0px 0px;
+}
+#more_sign_in{
+	width:85px;
+	background:#fff;
+	margin-top:-20px;
+	margin-left:95px;
+	text-align:center;
+	color: #767676;
+	font-size:12px;
+
+}
+#weixin>button{
+	width:266px;
+	height:30px;
+	font-size:13px;
+	background: #13D71F;
+    border:1px solid #ddd;
+    border-radius:3px;
+    margin-top:10px;
+    color:#fff;
+    cursor:pointer;
+}
+#login_footer{
+	height:20px;
+	width:1152px;
+	margin:0 auto;
+	align:center;
+	margin-top:20px;
+}
+#login_footer>div:first-child{
+	margin:0 auto;
+	margin-left:500px;
+}
+#login_footer>div>a{
+	color: #0066c0;
+}
+#login_footer>div>a:hover{
+	color: #c45500;
+}
+
+#login_footer>div:last-child{
+	margin:0 auto;
+	margin-left:435px;
+	margin-top:10px;
+}
+
+#login_bottom{
+	height:40px;
+	width:1152px;
+	margin-top:50px;
+}

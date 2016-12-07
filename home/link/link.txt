@@ -1,0 +1,7 @@
+CREATE TABLE link(
+id INT PRIMARY KEY AUTO_INCREMENT,
+name VARCHAR(255) NOT NULL,
+link VARCHAR(255) NOT NULL)ENGINE=MYISAM DEFAULT CHARSET=UTF8;
+
+
+ alter table link add status tinyint unsigned not null default 0

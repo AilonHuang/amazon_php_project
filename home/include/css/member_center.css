@@ -1,0 +1,292 @@
+h1{
+	margin-top: 0px;
+}
+body{
+	font-size: 13px;
+	line-height: 19px;
+	color: #111;
+	font-family: "Hiragino Sans GB","Microsoft Yahei",Arial,sans-serif;
+}
+/*最近查看和相关推荐开始*/
+/*#my_amazon{
+	width:1152px;
+	height:33px;
+	margin:0 auto;
+	background: #fafafa;
+	border-top: 1px solid rgba(0,0,0,.17);
+	border-bottom: 1px solid rgba(0,0,0,.1);
+	font-family: arial,sans-serif;
+}
+#my_amazon a{
+	display:block;
+	float:left;
+	height:27px;
+	color:#333;
+	line-height:33px;
+	font-size:12px;
+	padding-left:10px;
+	padding-right:5px;
+}*/
+/*#my_amazon a:hover{
+    color: #e47911;
+    border-bottom: 2px solid #f90;
+}
+#ailon_amazon{
+	width:1118px;
+	height:70px;
+	margin:0 auto;
+	!*background:red;*!
+	padding:24px 8px 20px 26px;
+	background-color:#F6F6F6;
+    border-bottom:1px solid rgba(0,0,0,.3);
+}
+#ailon_amazon>div{
+	float:left;
+}
+#amazon_head_portrait{
+
+	width:65px;
+	height:65px;
+	background:url("../img/default_customer_icon._V331656993_.png") no-repeat;
+}
+#amazon_name{
+	width:90px;
+	height:65px;
+	margin-right:30px;
+}
+#amazon_name>a{
+	font-size:22px;
+	font-weight:800;
+	color:#333;
+	line-height:30px;
+}
+#amazon_name>a:hover{
+	color:#e47911;
+}
+
+.section_label{
+	font-size:10px;
+	color:#888;
+	font-weight:800;
+	line-height:10px;
+}
+.section_value{
+	font-size:20px;
+	height:20px;
+	margin:10px 0;
+	color:#333;
+}
+.section_value>span{
+	display:block;
+	float:left;
+}
+.section_value>span:last-child{
+	font-size:55%;
+	margin-left:2px;
+}
+#gift_card{
+	margin-left:30px;
+}
+#member_ship{
+	margin-left:30px;
+}
+.section_subtext a{
+	font-size:12px;
+	color:#004B91;
+}
+.section_subtext a:hover{
+	text-decoration:underline;
+    color:#e47911;
+}*/
+/*个人信息开始*/
+.info_center{
+	width:600px;
+	height:800px;
+	margin:0 auto;
+}
+.my_info{
+	margin:0 auto;
+	/*padding: 14px 18px;*/
+	//border:1px solid #ccc;
+	border-radius: 4px;
+	width:600px;
+	height:466px;
+}
+.item{
+	border:1px solid #ccc;
+	padding: 5px;
+	width:580px;
+	height:50px;
+	//border:1px solid;
+}
+.title{
+	font-weight: 800;
+}
+/*个人信息结束*/
+
+
+/*最近查看和相关推荐开始*/
+
+#tuijian{
+	width:1152px;
+	height:443px;
+	margin:0 auto;
+	/*background:yellow;*/
+	border:1px solid #ddd;
+	border-radius: 5px;
+}
+#tuijian_header{
+	width:1152px;
+	height:36px;
+	font-size:20px;
+	color:#444;
+	padding-top:10px;
+    padding-left:10px;
+}
+#tuijian_heading{
+	height:40px;
+	width:1152px;
+	padding-left:10px;
+}
+#tuijian_heading>div:first-child{
+	height:40px;
+	width:800px;
+	float:left;
+	font-size:15px;
+	font-weight:800;
+
+}
+#tuijian_heading>div:nth-child(2){
+	height:40px;
+	width:300px;
+	float:left;
+	text-align:right;
+	font-size:15px;
+	font-weight:800;
+
+}
+#tuijian_center{
+	width:1152px;
+	height:265px;
+	/*background:red;*/
+}
+#tuijian_center>div:first-child,#tuijian_center>div:last-child{
+	width:37px;
+	height:265px;
+	float:left;
+}
+button{
+	height:34px;
+	width:37px;
+	/*float:left;*/
+	margin-top:140px;
+}
+#tuijian_center_center{
+	width:1078px;
+	height:265px;
+	/*background:purple;*/
+	float:left;
+}
+#tuijian_center_center>div{
+	height:265px;
+	width:149px;
+	/*background:pink;*/
+	float:left;
+	margin-left:15px;
+	margin-right:15px;
+}
+#tuijian_center_center>div>a>div{
+
+}
+#tuijian_center_center>div>div:nth-of-type(1){
+	height:70px;
+	width:149px;
+	/*background:yellow;*/
+	float:left;
+	margin-top:10px;
+}
+#tuijian_center_center>div>div>span>a{
+	color:#004B91;
+	font-size:13px;
+}
+#tuijian_center_center>div>div>span>a:hover{
+	color: #E47911;
+}
+.pingfen>a>div{
+	height:18px;
+	width:80px;
+	background:red;
+	float:left;
+	background:url("../img/stars-4-0.gif") no-repeat 24px 4px;
+}
+
+/*推荐底部开始*/
+#tuijian_footer{
+	height:89px;
+	width:1152px;
+	/*background:red;*/
+	margin-top:15px;
+}
+#tuijian_footer_left{
+	height:89px;
+	width:200px;
+	/*background:yellow;*/
+	text-height:89px;
+	margin-left:10px;
+	float:left;
+}
+#tuijian_footer_left>div{
+	height:50px;
+	width:52px;
+	font-size:13px;
+	float:left;
+	margin-top:10px;
+	line-height:50px;
+	margin-left:10px;
+}
+#tuijian_footer_left>div:last-child{
+	border:1px solid #DDD;
+}
+#tuijian_footer_left>div:last-child:hover{
+	cursor:pointer;
+    border:#c45500 1px solid;
+}
+#tuijian_footer_right1{
+	width:200px;
+	height:50px;
+	float:right;
+	border-left:solid 1px #ddd;
+	text-align:center;
+	margin-top:10px;
+	font-size:13px;
+	line-height:18px;
+}
+#tuijian_footer_right2{
+	width:170px;
+	height:50px;
+	float:right;
+	font-size:10px;
+	margin-top:10px;
+	font-weight:800;
+}
+#tuijian_footer_right2>div{
+	width:80px;
+	height:50px;
+	float:left;
+}
+#tuijian_footer_right2>div:nth-child(1)>img{
+	width:5px;
+	margin-left:65px;
+}
+#footer_denglu>a{
+	color:#000;
+	text-shadow:0 1px 0 #ffe093;
+}
+.footer_a_font{
+	color:#004B91;
+}
+.footer_a_font:hover{
+	color:#E47911;
+}
+/*推荐底部结束*/
+/*最近查看和相关推荐结束*/
